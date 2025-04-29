@@ -69,7 +69,7 @@ public class MyMidtermLabExam {
             //Split to extract specific parts needed
             String[] parts = tickets[indexToUpdate].split(" - Status: ");
             if (parts.length > 0) {
-                tickets[indexToUpdate] = parts[0] + " - Status: " + newStatus; //Assigns index[0] to the firstt ticket
+                tickets[indexToUpdate] = parts[0] + " - Status: " + newStatus;
                 System.out.println("Ticket status updated.");
             } else {
                 System.out.println("Error"); 
