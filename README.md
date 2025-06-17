@@ -32,7 +32,7 @@ Enter your first name: Firstname\
 Enter your last name: Lastname\
 Enter hours worked: 0.00\
 Enter hourly wage: 00.00\
-\
+
 Employee Information\
 --------------------\
 Full Name: Firstname Lastname\
