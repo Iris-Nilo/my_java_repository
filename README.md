@@ -202,7 +202,7 @@ _✅Function and Output_
 ### 📁Calculator | 📄 CalculatorGUI
 
 _✏️Brief Description_
-#### The program exhibits a function calculator using Java Swing. 
+#### The program exhibits a functional calculator using Java Swing. 
   
 _✅Function and Output_
 #### This program:
