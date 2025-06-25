@@ -1,5 +1,5 @@
 # Java Repository
-_This Java Repository consists of eight (8) files which is divided into:_
+_This Java Repository consists of eight (9) files which is divided into:_
 * Laboratory Activities
   * Lab1
   * Lab2
@@ -10,6 +10,12 @@ _This Java Repository consists of eight (8) files which is divided into:_
 * Laboratory Exams
   * MyMidtermLabExam
   * Calculator
+ * Pre-course
+  * Pre-course/Review Activity
+
+### 📁Pre-course | 📄Review
+_✏️Brief Description_
+#### This program serves as a review or recap for the course. 
 
 ### 📁Lab1 | 📄LabActivity1EmployeeInformationSystem
 
