@@ -11,7 +11,7 @@ _This Java Repository consists of eight (9) files which is divided into:_
   * MyMidtermLabExam
   * Calculator
  * Pre-course
-  * Pre-course/Review Activity
+   * Pre-course/Review Activity
 
 ### 📁Pre-course | 📄Review
 _✏️Brief Description_
